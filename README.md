@@ -4,6 +4,8 @@
 
 Will awlays be development
 
+Best is to pull official QGIS dockers
+
 ## TODO:
 
 1. Docker DB capbilites
